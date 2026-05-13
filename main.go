@@ -27,6 +27,13 @@ func main(){
 	fmt.Println("Person:", person)
 
 
+
+	//slices in golang
+	numbers := []int{1, 2, 3, 4, 5}
+	fmt.Println("Numbers:", numbers)
+	
+
+
 // my name is ritankar 
 
 
