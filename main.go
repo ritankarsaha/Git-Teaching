@@ -29,6 +29,8 @@ func main(){
 
 	fmt.Println("End of the program.")
 
+	fmt.Println("This is a simple Go program demonstrating basic syntax, loops, and maps.")
+
 	
 
 }
