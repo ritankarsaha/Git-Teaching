@@ -15,6 +15,9 @@ func main(){
 	}
 
 
+	
+
+
 	// maps in golang
 	person := make(map[string]string)
 	person["name"] = "John"
@@ -22,6 +25,11 @@ func main(){
 	person["city"] = "New York"
 
 	fmt.Println("Person:", person)
+
+
+// my name is ritankar 
+
+
 
 
 
@@ -34,3 +42,4 @@ func main(){
 	
 
 }
+
