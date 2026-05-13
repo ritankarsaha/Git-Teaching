@@ -9,14 +9,10 @@ func main(){
 	fmt.Println("Hello, World!")
 
 
-
 	//looping in golang 
 	for i := 0; i < 5; i++ {
 		fmt.Printf("Iteration %d\n", i)
 	}
-
-
-
 
 
 	// maps in golang
@@ -27,6 +23,11 @@ func main(){
 
 	fmt.Println("Person:", person)
 
+
+
+
+
+	fmt.Println("End of the program.")
 
 	
 
